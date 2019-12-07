@@ -1,2 +1,2 @@
 # JavaScriptMisc
-JS code to remember
+JS code to remember (or not :P)
